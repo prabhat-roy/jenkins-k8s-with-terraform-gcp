@@ -1,4 +1,5 @@
-Jenkins deployment to Tomcat & Kubernetes and infrastructure creation in GCP using Terraform
+Jenkins deployment to Tomcat & Kubernetes and infrastructure creation in GCP using Terraform.
+
 Virtual Machine required as follows
 1. Jenkins master Node (Ubuntu 22.04 lts)
 2. Jenkins Agent Node (Ubuntu 22.04 lts)
